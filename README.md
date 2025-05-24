@@ -10,10 +10,10 @@ Bu proje, görüntü işleme kullanarak güvercin yuvalarını tespit eden ve sa
 
 ## Kurulum
 
-1. Projeyi klonlayın:
+1. Projeyi indirin:
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/pigeon-roost-counter.git
-cd pigeon-roost-counter
+git clone https://github.com/mustafa-alp/guvercin_tunek_sayma.git
+cd guvercin_tunek_sayma
 ```
 
 2. Sanal ortam oluşturun ve aktifleştirin:
@@ -58,14 +58,10 @@ python veri_seti_olusturma.py
 - Model dosyası (`best.pt`) büyük olduğu için GitHub'a yüklenmemiştir. Modeli ayrıca indirmeniz gerekecektir.
 - Veri seti dosyaları da GitHub'a yüklenmemiştir. Kendi veri setinizi oluşturmanız veya mevcut bir veri seti kullanmanız gerekecektir.
 
-## Katkıda Bulunma
+## Önemli Uyarı
 
-1. Bu depoyu fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: Açıklama'`)
-4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
-5. Bir Pull Request oluşturun
+Bu proje sadece indirme amaçlıdır. Lütfen projeyi fork etmeyin veya kendi GitHub reponuzda paylaşmayın. Tüm hakları saklıdır.
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın. 
+Bu proje özel lisans altında dağıtılmaktadır. İzinsiz kullanımı ve dağıtımı yasaktır. 
